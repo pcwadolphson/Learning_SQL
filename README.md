@@ -1,7 +1,7 @@
 # Learning_SQL
 The examples and exercises from Learning SQL by Alan Beaulieu.
 
-The Sakila database was used for all SQL queries and exercises in the book.
+The Sakila database was used for all SQL queries and exercises in the book.  It's available from https://dev.mysql.com/doc/sakila/en/
 
 # Status of examples and exercises for each Chapter
 
