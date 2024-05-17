@@ -25,3 +25,5 @@ The Sakila database was used for all SQL queries and exercises in the book.  It'
 | 16 | N | N |
 | 17 | N | N |
 | 18 | N | N |
+
+Made a change take 2
